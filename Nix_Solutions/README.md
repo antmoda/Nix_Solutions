@@ -1,2 +1,0 @@
-# Nix_Solutions
-project
